@@ -1,0 +1,10 @@
+body{
+background-color: red;
+}
+.GreenText{
+ color: green;
+}
+li{
+  display:inline;
+  font-size:30px
+}
