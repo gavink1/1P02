@@ -1,0 +1,18 @@
+
+
+#wrapper{
+  background-color:green;
+}
+
+#header{
+color: white;
+background-color: red;
+}
+#content{
+  height:600px;
+}
+
+#footer{
+background-color:blue;
+height: 100px; 
+}
