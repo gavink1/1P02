@@ -1,19 +1,42 @@
-
-
-#wrapper{
-  background-color:green;
+.redPara{
+  color:red;
+  font-size:20px;
+  font-family:sans-serif;
+  text-transform: capitalize;
 }
 
-#header{
-color: white;
-background-color: red;
-text-align: center;
-}
-#content{
-  height:600px;
+.bluePara{
+  text-transform: lowercase;
+
 }
 
-#footer{
-background-color:blue;
-height: 100px;
+.greenPara{
+  text-transform: uppercase;
+  position: absolute;
+}
+
+.whitePara{
+  position: relative;top:500px
+}
+
+.p4{
+  color:blue;
+}
+
+.div1{
+  color: brown;
+}
+
+.box{
+  margin-top: 40px;
+  margin-right: 20%;
+  margin-bottom: 40px;
+  margin-left: 20%;
+  border: black 3px solid;
+  background-color: red;
+  text-align: center;
+}
+
+body{
+  background-color: pink;
 }

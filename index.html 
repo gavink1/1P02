@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<!--The head contains all of the confirguration items for our page-->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta content="en-us" http-equiv="Content-Language" />
+		<title>This is some awesome text</title>
+		<link href="style.css" type="text/css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<!--The body contains all of the content for our page-->
+
+		<div>
+			<a name="Top	"> </a>
+		</div>
+
+		<img src="http://cdn28.us1.fansshare.com/photograph/rickgenest/rick-genest-male-celebrity-wallpaper-1564940400.jpg" alt="picture"/>
+
+		<img src="lionhd.jpg" alt="lion picture"/>
+<h1>Organized list</h1>
+	<ol>
+		<li>this is cool</li>
+		<li>this is awesome</li>
+		<li>this is great</li>
+	</ol>
+<h1>Unorganized list</h1>
+	<ul>
+		<li>wind</li>
+		<li>fire</li>
+		<li>earth</li>
+		<li>air</li>
+	</ul>
+
+	<a href="https://www.google.ca/"> Click here to go to google </a>
+<p>
+	<a href="Mypage.html">click here</a>
+</p>
+
+<p class="redPara"> This is paragraph. Not much of a paragraph, but it's the best I can come up with at this moment in time.  </p>
+
+<p class="bluePara"> This is paragraph number 1, again this is no special paragraph but it's the best I can do. </p>
+
+<p class="greenPara"> This is paragraph number 2, again this is no special paragraph but it's the best I can do. </p>
+
+<p class="whitePara"> This is paragraph number 3, again this is no special paragraph but it's the best I can do. </p>
+
+<p class="p4">Blue Text</p>
+
+<div class="div1">
+
+<p class="p5">brown Text</p>
+<p class="p6">brown Text</p>
+
+</div>
+
+<div class="box">
+<p>This is a paragraph</p>
+</div>
+
+
+
+
+<a href="#Top"> To the top </a>
+
+	</body>
+
+</html>
