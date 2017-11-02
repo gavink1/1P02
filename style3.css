@@ -1,0 +1,20 @@
+.greenBody{
+  background-color: darkgreen;
+  height: 150px;
+}
+
+.redText{
+  color: red;
+}
+
+.greenText{
+color: green;
+}
+
+.box1{
+border: dotted 2px black;
+}
+
+.purpleText{
+  color: purple;
+}
