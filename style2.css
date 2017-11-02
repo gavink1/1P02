@@ -1,10 +1,38 @@
 body{
-background-color: red;
+  background-color: white;
 }
-.GreenText{
- color: green;
+
+.box1{
+  border: dotted 3px purple;
+  height: 200px;
 }
-li{
-  display:inline;
-  font-size:30px
+
+.text{
+text-align: center;
+padding-top: 160px;
+}
+
+.text2{
+color: green;
+text-align: center;
+}
+
+.text3{
+  color: orange ;
+  font-size: 30px
+}
+
+.redText{
+  color: red;
+  vertical-align: super;
+}
+
+.yellowText{
+  color: yellow;
+}
+
+.text4{
+  color: purple;
+  font-size: 10px;
+  text-align: right;
 }
