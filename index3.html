@@ -2,31 +2,23 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-	<head>
-		<!--The head contains all of the confirguration items for our page-->
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta content="en-us" http-equiv="Content-Language" />
-		<title>This is some awesome text</title>
-		<link href="style3.css" type="text/css" rel="stylesheet" />
-	</head>
+<head>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	<title>Basic Page with CSS + Javascript</title>
+	<link href="./basic_files/styles.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="scripts3.js"></script>
+</head>
 
-	<body>
-		<!--The body contains all of the content for our page-->
+<body>
 
-<div class="greenBody">
+	<h1 id="output">OUTPUT</h1>
 
-		<div class="box1">
-			<p class="redText">This is the first box</p>
-      <p class="greenText">This is also the first box</p>
-		</div>
-
-<div class="purpleText">
-<p>This is some awesome text</p>
-</div>
-
-</div>
-
-
-	</body>
+<form name= "myForm">
+<input type="text" name="num1" id="num1" value="Number 1" />
+<span>+</span>
+<input type="text" name="num2" id="num2" value="Number 2" />
+<button type="button" onclick="add()">=</button>
+</from>
+</body>
 
 </html>
