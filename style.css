@@ -1,42 +1,132 @@
-.redPara{
-  color:red;
-  font-size:20px;
-  font-family:sans-serif;
-  text-transform: capitalize;
-}
-
-.bluePara{
-  text-transform: lowercase;
-
-}
-
-.greenPara{
-  text-transform: uppercase;
-  position: absolute;
-}
-
-.whitePara{
-  position: relative;top:500px
-}
-
-.p4{
-  color:blue;
-}
-
-.div1{
-  color: brown;
-}
-
-.box{
-  margin-top: 40px;
-  margin-right: 20%;
-  margin-bottom: 40px;
-  margin-left: 20%;
-  border: black 3px solid;
-  background-color: red;
-  text-align: center;
+.wrapper{
+  margin: 0 auto:
 }
 
 body{
-  background-color: pink;
+ background-color:#828489;
+}
+
+.box{
+  margin-top: 20px;
+  border: black 3px solid;
+  background-color: #272932;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.navi{
+text-align: center;
+text-transform: capitalize;
+margin-top: 10px;
+margin-right: 20%;
+margin-bottom: 10px;
+margin-left: 20%;
+border: black 3px solid;
+}
+
+.image1{
+  position:relative;left:310px;
+}
+
+.image2{
+  position: relative; left: 530px;
+  margin-top: 10px;
+}
+
+.image3{
+  position: relative; left:380px
+}
+
+.footer{
+  margin-top: 30px;
+  background-color: #9E90A2;
+}
+
+.para{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.para2{
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+  border: black 3px solid;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 10px;
+}
+
+.para3{
+  text-align: center;
+  border: black 3px solid;
+}
+
+.para4{
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+
+.buy{
+  text-align: center;
+  top: 50%;
+  left: 50%;
+}
+
+.card{
+  text-align: center;
+}
+
+.card2{
+  text-align: center;
+}
+
+.card3{
+  text-align: center;
+}
+
+.submit{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.image4{
+  margin-left: 480px;
+}
+
+.image5{
+  margin-left: 490px;
+}
+
+.image6{
+  margin-left: 480px;
+  margin-top: 10px;
+}
+
+.next{
+  text-align: center;
+}
+
+.payhere{
+  text-align: center;
+}
+
+.image7{
+  margin-left: 550px;
+}
+
+.image8{
+  margin-left: 520px;
+  margin-top: 10px;
+}
+
+.image9{
+  margin-left: 530px;
+  margin-top: 10px;
 }
